@@ -1,4 +1,9 @@
-float x = 10.5;
-int y = (int)x;
+#include <stdio.h>
 
-printf("%d", y);
+int main(void) {
+    float x = 10.5;
+    int y = (int)x;
+
+    printf("%d\n", y);
+    return 0;
+}

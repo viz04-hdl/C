@@ -1,8 +1,13 @@
-int main(){
-    float a; 
-    printf("enter a float");
+#include <stdio.h>
+
+int main(void) {
+    float a;
+    int b;
+
+    printf("enter a float: ");
     scanf("%f", &a);
-    int b = (int)a;
-    printf("The input as i nt is %d",b);
+
+    b = (int)a;
+    printf("The input as int is %d\n", b);
     return 0;
 }

@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main(void) {
-    char ch = 'C';
-    printf("%c\n", ch);
+    int a = 450;
+    printf("%d\n", a);
     return 0;
 }
