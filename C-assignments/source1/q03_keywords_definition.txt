@@ -1,0 +1,1 @@
+Keywords are those which are pre defined terms which are developed along with the language , while identifiers are used defined entities

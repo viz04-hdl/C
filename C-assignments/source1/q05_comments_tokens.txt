@@ -1,0 +1,1 @@
+Comments are not tokens in C they are only for reading , for single line its // , for multi line /* */
