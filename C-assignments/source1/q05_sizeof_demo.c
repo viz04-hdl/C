@@ -1,3 +1,5 @@
+#include <stdio.h>
+
 int main() {
     
     int a  = 1;
@@ -9,6 +11,4 @@ int main() {
 
     printf("The size of the variable are %d = a , %c = b , %f = c , %lf = d  \n", a,b,c,d);
     return 0;
-    
-    
 }
